@@ -7,3 +7,7 @@
     path = FrontEnd
     url = https://github.com/abdullahalhoothy/FrontEnd.git
     branch = main
+
+[submodule "my_middle_API/backend_common"]
+    path = my_middle_API/backend_common
+    url = https://github.com/abdullahalhoothy/backend_common.git
